@@ -17,17 +17,20 @@
   * Sourcing locations, components, end user
 
 ## What is supply chain?
+
   * Two or more parties linked by a flow of resources - typically material, information, and money - that ultimately fulfill a customer request
     * Store places an order with their supplier
     * Supplier delivers requested material
     * Store pays supplier
     * During the process, there is a constant tranfer of information to update order status
+    
   * Serial supply chain - one supplier to the next to the next
     * In reality it looks like a web
     * Downstream - closer to the customer
     * Upstream - closer to the supplier 
     * First tier or tier one suppliers are suppliers that sell directly to that firm.
     * The direction of a flow in a supply chain is often compared to a river, where downstream is closer to the customer and upstream is closer to the supplier.
+  
   * The primary purpose of a SC is to satisfy customer needs
     * Only one source of revenue - the customer
     * Payments between parties are just fund exchanges
@@ -90,26 +93,26 @@ management: Supplier Relationship, Internal, and Customer Relationship.
           * Fall under different groups (Marketing - CRM, Manufacturing - ISCM, Purchasing - SRM)
           * Forecasts, schedules, design, etc. should be coordinated
    
-  * Traditional Functional Perspective
-         * Purchasing/Procurement
-           * What to buy from who
-         * Inventory COntrol
-           * How much to stock where
-         * Warehousing
-           * Storage, mixing, break bulk
-         * Materials Handling
-           * How to move product
-         * Order processing
-           * Receiving, entry and status
-         * Transportation
-           * Inbound versus outbound
-         * Customer Service
-           * Geographic
-           * Product line specific
-         * Planning Group
-           * Facility Location
-           * Network Design
-           * Demand Planning
+    * Traditional Functional Perspective
+        * Purchasing/Procurement
+          * What to buy from who
+        * Inventory COntrol
+          * How much to stock where
+        * Warehousing
+          * Storage, mixing, break bulk
+        * Materials Handling
+          * How to move product
+        * Order processing
+          * Receiving, entry and status
+        * Transportation
+          * Inbound versus outbound
+        * Customer Service
+          * Geographic
+          * Product line specific
+        * Planning Group
+          * Facility Location
+        * Network Design
+          * Demand Planning
            
 ##  Supply Chain as a System
 
