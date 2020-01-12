@@ -23,6 +23,8 @@
         * In reality it looks like a web
       * Downstream - closer to the customer
       * Upstream - closer to the supplier 
+      * First tier or tier one suppliers are suppliers that sell directly to that firm.
+      * The direction of a flow in a supply chain is often compared to a river, where downstream is closer to the customer and upstream is closer to the supplier.
     * The primary purpose of a SC is to satisfy customer needs
       * Only one source of revenue - the customer
       * Payments between parties are just fund exchanges
@@ -30,8 +32,6 @@
       etc.
       * Supply Chains try to maximize the total value generated
        * = (What customer pays) - (Total effort expended to fulfill)
-
-    
     * What are logistics and supply chain management?
     * How should you view SCM?
     * What are the challenges
