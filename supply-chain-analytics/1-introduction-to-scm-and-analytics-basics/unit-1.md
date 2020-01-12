@@ -39,8 +39,9 @@
         * Logistics management is that part of supply chain management that plans, implements, and controls the efficient, effective forward and reverse flow and storage of goods, services, and related information between the point of origgin and the point of consumption in order to meet customer requirements
         * Supply chain management encompasses the planning and management of all activities involved in sourcing and procurement, conversion, and all logistics management activities. Importantly, it also includes coordination and collaboration with channel partners, which can be suppliers, intermediaries, third party service providers, and customers.  In essence, supply chain management integrates supply and demand management within and across companies.
     * How should you view SCM?
-      * Geographic flows
+      * Geographic flows - showing origins, destinations, and the physical routes
       * Risk management
+      * Flow diagrams - showing the flow of materials, information, and finance between echelons.
       * Process View of Supply Chains
         * Four Primary Cycles
           * Customer order cycle
@@ -94,3 +95,8 @@
            * Demand Planning
     * What are the challenges
     * Why should you care?
+      * Supply chains:
+        * Span the globe and cannot be managed as an isolated function
+        * Have become critical to any organization's operations
+        * Connect function, division,s and business units within a firm as well as across firms
+        * Evolved into being both a bridge and a shock absorber
