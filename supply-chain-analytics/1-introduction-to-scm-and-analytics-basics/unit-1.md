@@ -39,5 +39,58 @@
         * Logistics management is that part of supply chain management that plans, implements, and controls the efficient, effective forward and reverse flow and storage of goods, services, and related information between the point of origgin and the point of consumption in order to meet customer requirements
         * Supply chain management encompasses the planning and management of all activities involved in sourcing and procurement, conversion, and all logistics management activities. Importantly, it also includes coordination and collaboration with channel partners, which can be suppliers, intermediaries, third party service providers, and customers.  In essence, supply chain management integrates supply and demand management within and across companies.
     * How should you view SCM?
+      * Geographic flows
+      * Risk management
+      * Process View of Supply Chains
+        * Four Primary Cycles
+          * Customer order cycle
+          * Replenishment cycle
+          * Manufacturing Cycle
+          * Procurement Cycle
+        * Cycles occur between stages
+          * Interactions differ at each stage
+        * Not every SC will have all 4 cycles
+      * Macro Process (Software) Perspective
+        * Supplier Relationship Management
+          * Sourcing
+          * Negotiation
+          * Buying
+          * Design and Supply Collaboration
+        * Internal Supply Chain Managemnet
+          * Strategic Planning
+          * Demand Planning
+          * Supply Planning
+          * Fulfillment
+        * Customer Relationship Management
+          * Marketing
+          * Selling
+          * Call Centers
+          * Order Management
+        * Different macro processes should be aligned
+          * Fall under different groups (Marketing - CRM, Manufacturing - ISCM, Purchasing - SRM)
+          * Forecasts, schedules, design, etc. should be coordinated
+       * Supply Chain Operations Reference Model 
+         * a set of metrics and supporting documentation to management the supply chain as a whole
+         * Source, Make, Deliver
+       * Traditional Functional Perspective
+         * Purchasing/Procurement
+           * What to buy from who
+         * Inventory COntrol
+           * How much to stock where
+         * Warehousing
+           * Storage, mixing, break bulk
+         * Materials Handling
+           * How to move product
+         * Order processing
+           * Receiving, entry and status
+         * Transportation
+           * Inbound versus outbound
+         * Customer Service
+           * Geographic
+           * Product line specific
+         * Planning Group
+           * Facility Location
+           * Network Design
+           * Demand Planning
     * What are the challenges
     * Why should you care?
