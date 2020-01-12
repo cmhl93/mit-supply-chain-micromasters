@@ -33,9 +33,17 @@
   * A simulation model is descriptive in a sense that its form is well defined, but decision variables are determined with uncertainty.
   
 ##  Mathematical Functions
-
+  * Linear Function - y = ax + b
+  * Profit = f(volume) = (r - c) * v + d
+    * Revenue (r), cost per item (c), volume (v), fixed cost (d)
+    
 ##  Quadratic Functions
-
+  * Parabola 
+    * y = ax*2 + bx + c
+  * When a > 0, the function is convex (or concave up)
+  * When a < 0, the function is concave down
+  * Quadratic formula is used to find the roots of a function (where the graph touches x axis)
+  
 ##  Quadratic Functions in Practice
 
 ##  Other Common Functional Forms
