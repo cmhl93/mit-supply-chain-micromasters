@@ -33,6 +33,11 @@
       * Supply Chains try to maximize the total value generated
        * = (What customer pays) - (Total effort expended to fulfill)
     * What are logistics and supply chain management?
+      * Logistics involves managing the flow of items, information, cash and ideas through the coordination of supply chain processes and through the strategic addition of place, period and pattern values.
+      * Supply chain management deals with the management of materials, information, and financial flows in a network consisting of suppliers, manufacturers, distributors, and customers.
+      * According to the Council of Supply Chain Management Professionals
+        * Logistics management is that part of supply chain management that plans, implements, and controls the efficient, effective forward and reverse flow and storage of goods, services, and related information between the point of origgin and the point of consumption in order to meet customer requirements
+        * Supply chain management encompasses the planning and management of all activities involved in sourcing and procurement, conversion, and all logistics management activities. Importantly, it also includes coordination and collaboration with channel partners, which can be suppliers, intermediaries, third party service providers, and customers.  In essence, supply chain management integrates supply and demand management within and across companies.
     * How should you view SCM?
     * What are the challenges
     * Why should you care?
