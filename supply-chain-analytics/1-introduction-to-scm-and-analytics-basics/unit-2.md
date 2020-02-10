@@ -58,7 +58,19 @@
   * What are the root(s) of this equation? (price)
   
 ##  Other Common Functional Forms
-
+  * Power function y = f(x) = ax^b
+    * The shape of the curve is dictated by the value of b
+    * If b < 0, the function decreases to f(x) = 0 and note that f(o) is undefined
+    * e.g. y = ax^-1 = a/x
+    * If b > 1, then function increases exponentially
+    * If 0 < b < 1, then function tapers away from linear
+    * If b = 1, then the function is linear
+    
+  * Exponential function y = ab^x
+    * Exponential functions have very fast growth
+    * Widely used in phsyicals, biology, economics, finance, computer science, etc.
+    * Example: compound interest
+    
 ##  Logarithms
 
 ##  Multivariate Functions
