@@ -33,11 +33,13 @@
   * A simulation model is descriptive in a sense that its form is well defined, but decision variables are determined with uncertainty.
   
 ##  Mathematical Functions
+
   * Linear Function - y = ax + b
   * Profit = f(volume) = (r - c) * v + d
     * Revenue (r), cost per item (c), volume (v), fixed cost (d)
     
 ##  Quadratic Functions
+
   * Parabola 
     * y = ax*2 + bx + c
   * When a > 0, the function is convex (or concave up)
@@ -51,6 +53,7 @@
     * Quadractic equation
   
 ##  Quadratic Functions in Practice
+
   * Manufacturing widgets
   * Revenue = demand x price
   * Costs = cost x demand
@@ -58,6 +61,7 @@
   * What are the root(s) of this equation? (price)
   
 ##  Other Common Functional Forms
+
   * Power function y = f(x) = ax^b
     * The shape of the curve is dictated by the value of b
     * If b < 0, the function decreases to f(x) = 0 and note that f(o) is undefined
@@ -73,6 +77,17 @@
     
 ##  Logarithms
 
+  * logb(y) = x, log(1) = 0
+  * Properties
+    * log(xy) = log(x) + log(y)
+    * Log(x/y) = log(x) - log(y)
+    * log(x^a) = alog(x)
+    
 ##  Multivariate Functions
-
+  
+  * Functions with more than one independent variable
+  
 ##  Properties of Functions
+
+  * Convexity - a function is convex if it "holds water"
+  * Continuity - a function is continuous if you can draw it without lifting a pen from paper
