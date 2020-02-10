@@ -43,9 +43,20 @@
   * When a > 0, the function is convex (or concave up)
   * When a < 0, the function is concave down
   * Quadratic formula is used to find the roots of a function (where the graph touches x axis)
+  * The roots of a quadractic
+    * Values of x for when y = 0
+    * There can be 2, 1, or 0 roots
+  * Two methods for finding roots
+    * Factoring
+    * Quadractic equation
   
 ##  Quadratic Functions in Practice
-
+  * Manufacturing widgets
+  * Revenue = demand x price
+  * Costs = cost x demand
+  * Profits = Revenue x Costs
+  * What are the root(s) of this equation? (price)
+  
 ##  Other Common Functional Forms
 
 ##  Logarithms
