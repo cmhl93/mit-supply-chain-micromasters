@@ -28,6 +28,13 @@
     
 ##  Cleaning data
 
+  * Typical	checks	
+    * Invalid	values	-	negative,	text,	too	small,	too	big,	missing	
+    * Mismatches	between	related	data	sets	-	#	of	rows,	#	of	cols	
+    * Duplication	–	unique	identifiers	
+    * Human	error	–	wrong	dates,	invalid	assumptions	
+    * Always	explore	the	outliers	–	they	are	the	most	interes)ng!
+
 ##  Querying data in spreadsheets
 
 ##  Data management challenges
