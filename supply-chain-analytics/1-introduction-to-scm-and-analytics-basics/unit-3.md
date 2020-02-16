@@ -42,3 +42,10 @@
     * They automatically sort, total or average the data stored in one table and display the results in a second table
 
 ##  Data management challenges
+
+  * The opportunity
+    * The digital disruption is here
+    * Data Analytics have become pervasive
+  * The challenge
+    * Data is messy
+    * Data is usually siloed
