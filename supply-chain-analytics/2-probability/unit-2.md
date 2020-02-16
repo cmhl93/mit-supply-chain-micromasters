@@ -50,3 +50,10 @@
       * Median = (a + b) / 2
       * Mode N/A
       * Variance = ((b-a+1)2 – 1)/12
+
+## Poisson Distribution
+
+  * Widely used to model arrivals, slow moving inventory, etc.
+    * Discrete distribution that cannot take negative values
+    * Notation: P(λ)
+    * λ = mean = variance
