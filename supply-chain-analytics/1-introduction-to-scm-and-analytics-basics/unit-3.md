@@ -37,4 +37,8 @@
 
 ##  Querying data in spreadsheets
 
+  * Pivot tables can help
+    * Data summarization
+    * They automatically sort, total or average the data stored in one table and display the results in a second table
+
 ##  Data management challenges
