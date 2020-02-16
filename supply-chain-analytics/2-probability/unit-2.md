@@ -24,3 +24,29 @@
     * In same units as the mean! 
   * Coefficient of Variation – Ratio of standard deviation to the mean
     * Standard measure of variability
+
+## Discrete Probability Distributions
+
+  *  Probability Distributions
+    *  Where do they come from?
+      * Empirical – based on actual data
+      * Theoretical – based on a mathematical form
+      
+  * Discrete Theoretical Distributions
+    * Discrete Uniform Distribution
+      * N possible values
+      * Each value has equal probability, i.e., 1/N
+      * Ex: Rolling a die
+    * Poisson Distribution
+      * Probability of seeing x events within a certain time period
+      * Example: Random arrivals to a customer service desk
+  * Discrete Uniform Distribution
+    * Notation: U(a, b)
+      * a = Minimum
+      * b = Maximum
+      * n = # of values = b – a + 1
+    * Metrics
+      * Mean = (a + b) / 2
+      * Median = (a + b) / 2
+      * Mode N/A
+      * Variance = ((b-a+1)2 – 1)/12
